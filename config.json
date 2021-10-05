@@ -1,0 +1,20 @@
+{
+  "creds": {
+    "key": "",
+    "secret": ""
+  },
+  "endpoint": "https://ftx.com/api",
+  "params": {
+    "market": "SOL-PERP",
+    "lev": 1.05,
+    "stopLoss": 0.025,
+    "period": "15s-12"
+  },
+  "channels": {
+    "alert": "",
+    "log": [""],
+    "webhook": ""
+  },
+  "owner": [""],
+  "token": ""
+}
